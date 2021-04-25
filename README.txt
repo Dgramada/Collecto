@@ -36,3 +36,7 @@ MOVE~3
 MOVE4~12
 
 https://mihai-nita.net/java/
+
+The game rules can be found in the collecto-game-rules.pdf file.
+The networking protocols, board view and commands can be found in the collecto-communications-protocol-master folder.
+The javadoc for the whole project can be found in the javadoc folder.
